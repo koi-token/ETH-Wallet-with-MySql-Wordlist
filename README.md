@@ -18,6 +18,4 @@ Run
 
 # Pre requisites
 
-For local testing we recommend use wampserver. For any other server php and mysql is required
-
-We are using wamp server for test, maybe in the future we will add a docker image.
+For local testing we recommend use wampserver. For any other server php and mysql is required.
