@@ -1,4 +1,4 @@
-# Create a EThereum Wallet with words
+# Create a EThereum Wallet with MySql Word list
 
 This is a very simple script that will allow you to create an ethereum wallet using web3 + MySql to retrieve a random words to create it. 
 
