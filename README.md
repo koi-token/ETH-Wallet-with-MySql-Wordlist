@@ -5,8 +5,7 @@ This is a very simple script that will allow you to create an ethereum wallet us
 The sql file has over 400k english words, so this a secure way to create an ethereum wallet. 
 
 #Usage
-
-Clone this repo
+Clone this repo<br>
 Import the sql file to your database
 Change the information on the conexion file
 Run
