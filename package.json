@@ -1,0 +1,15 @@
+{
+  "name": "web3Test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesus Moran",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "web3": "^1.2.8"
+  }
+}
