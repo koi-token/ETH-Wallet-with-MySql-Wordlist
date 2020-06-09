@@ -7,11 +7,8 @@ The sql file has over 400k english words, so this a secure way to create an ethe
 #Usage
 
 Clone this repo
-
 Import the sql file to your database
-
 Change the information on the conexion file
-
 Run
 
 #Pre requisites
